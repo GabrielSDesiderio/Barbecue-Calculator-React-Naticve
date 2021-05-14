@@ -1,0 +1,12 @@
+{
+  "name": "bbq",
+  "displayName": "bbq",
+  "expo": {
+    "name": "bbq",
+    "slug": "bbq",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
